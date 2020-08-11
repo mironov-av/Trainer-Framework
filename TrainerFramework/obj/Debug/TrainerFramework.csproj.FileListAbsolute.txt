@@ -1,0 +1,10 @@
+F:\VisualStudio2019Repos\TrainerFramework\TrainerFramework\obj\Debug\TrainerFramework.csprojAssemblyReference.cache
+F:\VisualStudio2019Repos\TrainerFramework\TrainerFramework\obj\Debug\TrainerFramework.Properties.Resources.resources
+F:\VisualStudio2019Repos\TrainerFramework\TrainerFramework\obj\Debug\TrainerFramework.csproj.GenerateResource.cache
+F:\VisualStudio2019Repos\TrainerFramework\TrainerFramework\obj\Debug\TrainerFramework.csproj.CoreCompileInputs.cache
+F:\VisualStudio2019Repos\TrainerFramework\TrainerFramework\bin\Debug\TrainerFramework.exe.config
+F:\VisualStudio2019Repos\TrainerFramework\TrainerFramework\bin\Debug\TrainerFramework.exe
+F:\VisualStudio2019Repos\TrainerFramework\TrainerFramework\bin\Debug\TrainerFramework.pdb
+F:\VisualStudio2019Repos\TrainerFramework\TrainerFramework\obj\Debug\TrainerFramework.exe
+F:\VisualStudio2019Repos\TrainerFramework\TrainerFramework\obj\Debug\TrainerFramework.pdb
+F:\VisualStudio2019Repos\TrainerFramework\TrainerFramework\obj\Debug\TrainerFramework.Main.resources
